@@ -1,0 +1,13 @@
+personal details
+
+
+
+Name:Santhiya.K
+Date of birth:22.05.2006
+Gender:Female
+
+
+Education
+
+University:Bharathidasan
+Department:BCA
